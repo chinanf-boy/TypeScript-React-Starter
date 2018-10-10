@@ -1,12 +1,27 @@
-### 校对✅ [![translate-svg]][translate-list]
+
+## TypeScript React 入门 [![translate-svg]][translate-list]
 
 [translate-svg]: http://llever.com/translate.svg
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
+## 校对 ✅
 
-欢迎 `Issue` 和 `Pull` ❤️, 最好 `Pull` 👏 
+<!-- doc-templite START generated -->
+<!-- repo = 'Microsoft/TypeScript-React-Starter' -->
+<!-- commit = 'b016ad12ebdff80869a9248c3357f498dcdbb06b' -->
+<!-- time = '2018-7-10' -->
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-7-10 | ![last] | [中文翻译][translate-list]
 
-- ⏰ 2018 7.25 开始/结束
+[last]: https://img.shields.io/github/last-commit/Microsoft/TypeScript-React-Starter.svg
+[commit]: https://github.com/Microsoft/TypeScript-React-Starter/tree/b016ad12ebdff80869a9248c3357f498dcdbb06b
+
+<!-- doc-templite END generated -->
+
+### 贡献
+
+欢迎 👏 勘误/校对/更新贡献 😊 [具体贡献请看](https://github.com/chinanf-boy/chinese-translate-list#贡献)
 
 ## 生活
 
